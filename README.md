@@ -9,6 +9,10 @@ The project is modified from a project that we found useful in dataflair which u
 
 PS: Model that we used is from the dataflair project too.
 
+# Future Planning
+1. Connect to real time database (firebase)
+1. Change to use our own deep learning model.
+
 ## Group Members
 1. Tan Yeung How
 1. Nurhidayah Halim
